@@ -1,5 +1,5 @@
 
-<img> ![ZNexTech Logo](./profile/assets/znextech-logo.png) </img>
+<img> ![ZNexTech Logo](./profile/assets/logo Znextech.png) </img>
 
 
 # ZNexTech Overview
