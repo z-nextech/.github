@@ -1,5 +1,4 @@
-
-![ZNexTech Logo](./profile/assets/logo Znextech.png)
+<img src = "./profile/assets/bia.png" alt="Banner">
 
 
 # ZNexTech Overview
